@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>MONISHA</h1>
         <h1>Deploying React to GitHub Pages</h1>
         <p>
           Deploying a React app to GitHub Pages is straightforward. Follow these steps to get your app live:
